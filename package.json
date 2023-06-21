@@ -1,0 +1,25 @@
+{
+  "name": "testeapibytcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AfranioAlcantara/testeApiBytcode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AfranioAlcantara/testeApiBytcode/issues"
+  },
+  "homepage": "https://github.com/AfranioAlcantara/testeApiBytcode#readme",
+  "dependencies": {
+    "cypress": "^12.15.0",
+    "cypress-plugin-api": "^2.11.1"
+  }
+}
